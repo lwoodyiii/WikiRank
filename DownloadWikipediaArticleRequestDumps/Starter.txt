@@ -1,0 +1,14 @@
+"D:\My Dropbox\NB\DownloadWikipediaArticleRequestDumps\bin\Debug\DownloadWikipediaArticleRequestDumps.exe" http://dumps.wikimedia.org/other/pagecounts-raw/2011/2011-12/ "D:\My Dropbox\NB\DownloadWikipediaArticleRequestDumps\md5sums2011-12.txt"
+
+"D:\My Dropbox\NB\DownloadWikipediaArticleRequestDumps\bin\Debug\DownloadWikipediaArticleRequestDumps.exe" http://dumps.wikimedia.org/other/pagecounts-raw/2011/2011-11/ "D:\My Dropbox\NB\DownloadWikipediaArticleRequestDumps\md5sums2011-11.txt"
+
+"D:\My Dropbox\NB\VerifyMD5Hashes\bin\Release\VerifyMD5Hashes.exe" "F:\NB\2011-11" "F:\NB\md5sums2011-11.txt"
+
+"D:\My Dropbox\NB\DownloadWikipediaArticleRequestDumps\bin\Debug\DownloadWikipediaArticleRequestDumps.exe" http://dumps.wikimedia.org/other/pagecounts-raw/2011/2011-09/ "D:\My Dropbox\NB\DownloadWikipediaArticleRequestDumps\md5sums2011-09.txt"
+
+"D:\My Dropbox\NB\DownloadWikipediaArticleRequestDumps\bin\Debug\DownloadWikipediaArticleRequestDumps.exe" http://dumps.wikimedia.org/other/pagecounts-raw/2011/2011-10/ "D:\My Dropbox\NB\DownloadWikipediaArticleRequestDumps\md5sums2011-10.txt"
+
+"D:\My Dropbox\NB\DownloadWikipediaArticleRequestDumps\bin\Release\DownloadWikipediaArticleRequestDumps.exe" "2011-07"
+
+"D:\My Dropbox\NB\VerifyMD5Hashes\bin\Release\VerifyMD5Hashes.exe" "2011-10"
+"D:\My Dropbox\NB\VerifyMD5Hashes\bin\Release\VerifyMD5Hashes.exe" "2011-09"

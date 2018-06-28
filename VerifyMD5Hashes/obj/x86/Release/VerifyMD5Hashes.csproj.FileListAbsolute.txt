@@ -1,0 +1,5 @@
+D:\My Dropbox\NB\VerifyMD5Hashes\bin\Release\VerifyMD5Hashes.exe
+D:\My Dropbox\NB\VerifyMD5Hashes\bin\Release\VerifyMD5Hashes.pdb
+D:\My Dropbox\NB\VerifyMD5Hashes\obj\x86\Release\ResolveAssemblyReference.cache
+D:\My Dropbox\NB\VerifyMD5Hashes\obj\x86\Release\VerifyMD5Hashes.exe
+D:\My Dropbox\NB\VerifyMD5Hashes\obj\x86\Release\VerifyMD5Hashes.pdb

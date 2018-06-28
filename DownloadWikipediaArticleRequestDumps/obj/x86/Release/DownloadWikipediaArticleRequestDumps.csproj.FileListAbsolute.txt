@@ -1,0 +1,7 @@
+D:\My Dropbox\NB\DownloadWikipediaArticleRequestDumps\bin\Release\DownloadWikipediaArticleRequestDumps.exe
+D:\My Dropbox\NB\DownloadWikipediaArticleRequestDumps\bin\Release\DownloadWikipediaArticleRequestDumps.pdb
+D:\My Dropbox\NB\DownloadWikipediaArticleRequestDumps\obj\x86\Release\ResolveAssemblyReference.cache
+D:\My Dropbox\NB\DownloadWikipediaArticleRequestDumps\obj\x86\Release\DownloadWikipediaArticleRequestDumps.exe
+D:\My Dropbox\NB\DownloadWikipediaArticleRequestDumps\obj\x86\Release\DownloadWikipediaArticleRequestDumps.pdb
+E:\Dropbox\WikiStats Project\DownloadWikipediaArticleRequestDumps\obj\x86\Release\DownloadWikipediaArticleRequestDumps.exe
+E:\Dropbox\WikiStats Project\DownloadWikipediaArticleRequestDumps\obj\x86\Release\DownloadWikipediaArticleRequestDumps.pdb
